@@ -1,0 +1,29 @@
+-Thông tin liên lạc:
+  + Tên: Nông Thanh Hồng
+  + Ngày sinh: 20/07/2001
+  + SDT: 0343297817
+  + email: 19521551@gm.uit.edu.vn
+  + Địa chỉ: Đông Hoà, Dĩ An, Bình Dương, Việt Nam.
+-Software Engineer
+-Mục tiêu nghề nghiệp:
+  + Tìm được được một công việc mong muốn trong môi trường chuyên nghiệp
+  năng động, tôn trọng lẫn nhau. 
+  + Áp dụng được những kinh nghiệm về kỹ năng lập trình đã tích luỹ được trong những năm qua.
+  + Tương lai thăng tiến đến vị trí quản lý.
+- Học vấn:
+  +Theo học trường đại học công nghệ thông tin - đại học quốc gia HCM
+  từ tháng 8 năm 2019.
+  + Tốt nghiệp tháng 3 năm 2022 - loại giỏi - điểm trung bình 8.75
+  + Chuyên ngành khoa học máy tính 
+  + Theo học khoá học kỹ năng quản lý IT toàn diện.
+  + Theo học khoá học kỹ năng mềm.
+- Kỹ năng:
+  + Có kinh nghiệm sử dụng thực tế trên trên 5 năm trong việc lập trình với C++ và Python.
+  + Có khả năng làm việc nhóm tốt và dẫn dầu nhóm.
+- Kinh nghiệm làm việc:
+  + 2022-2023: Deverloper at IPA company.
+  + 2023-2025: Software Engineer at BiliBili.
+  + 2025-2027: Senior Software Engineer at BiliBili.
+  + 2026: Tham gia dự án phát triển phần mềm dành riêng cho Bộ Y Tế.
+- Ngoại ngữ: 
+  + Bằng Ielts 7.0 của IDP Education.
